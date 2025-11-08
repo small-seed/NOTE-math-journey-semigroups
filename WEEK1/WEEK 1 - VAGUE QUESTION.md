@@ -25,13 +25,12 @@ $$T_{t}=e^{tA}\quad T_{s+t}=T_{s}T_{t}$$
 It is not new, but my institution is: arithmetic, calculus, ODEs, quantum mechanics-they're all different expressions of the same structure: $"A$ rule being applied continuously rather than discretely" and can be written in the same algebraic form as above.
 
 
-<table>
-<tr><th>t Value</th><th>What It Represents</th><th>Type of Physics</th><th>Example</th></tr>
-<tr><td>Integer</td><td>Repeated discrete operation</td><td>Arithmetic / Iteration</td><td>Add: xₙ=3×x+3 → semigroup T³(x)=x+3c</td></tr>
-<tr><td>Real</td><td>Smooth continuous time</td><td>Classical motion</td><td>ODE: dx/dt=f(x)</td></tr>
-<tr><td>Fractional</td><td>Memory, anomalous diffusion</td><td>Fractional dynamics</td><td>a=1.5 → slower chaos</td></tr>
-<tr><td>Imaginary</td><td>Oscillation, rotation</td><td>Quantum / wave</td><td>i∂ψ/∂t=Hψ → phase shift</td></tr>
-</table>
+| t Value | What It Represents | Type of Physics | Example |
+|----------|--------------------|-----------------|----------|
+| Integer | Repeated discrete operation | Arithmetic / Iteration | `Add: xₙ = 3×x + 3 → semigroup T³(x) = x + 3c` |
+| Real Positive | Smooth continuous time | Classical motion, diffusion | `ODE: dx/dt = f(x),  x_{√2} = Φ_{√2}(x₀)` |
+| Fractional | Memory, anomalous diffusion | Fractional dynamics | `a = 1.5, gravity*(t^1.5) = F(t) → slower chaos` |
+| Imaginary | Oscillation, rotation, phase | Quantum / wave physics | `QM: i ∂ψ/∂t = Hψ → phase rotation` |
 
 
 $here=fractiona$ l order, blending t with memory (e.g., Caputo derivative). Unifies: $a=2$ classical (acceleration), $a=1QM$ (probability).
