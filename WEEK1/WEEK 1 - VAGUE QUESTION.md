@@ -25,12 +25,13 @@ $$T_{t}=e^{tA}\quad T_{s+t}=T_{s}T_{t}$$
 It is not new, but my institution is: arithmetic, calculus, ODEs, quantum mechanics-they're all different expressions of the same structure: $"A$ rule being applied continuously rather than discretely" and can be written in the same algebraic form as above.
 
 
-| t Value | What It Represents | Type of Physics | Example |
-| --- | --- | --- | --- |
-| Integer | Repeated discrete<br>operation | Arithmetic /<br>Iteration | $Addc,n=3times:x+3c\rightarrow$semigroup $T3(x)=x+3c$ |
-| Real<br>Positive | Smooth continuous time | Classical motion, diffusion | ODE:$dx/dt=f(x),x_{\sqrt {2}}=Φ_{\sqrt {2}}\left(x_{0}\right)$via $e^{\sqrt {2}A}$(3-body orbit step) |
-| Fractional | Memory, annomalous diffusion | Fractional<br>dynamics | $a=1.5$gravity:$D^{1.5}e=F(r)\rightarrow \text {slower}$chaos (orbits last 10x longer) |
-| Imaginary | Oscillation, phase<br>rotation | Quantum / wave physics | QM: $0$ $\{\mathrm {i}\theta \mathrm {H}\}ψ$→wave rotation;$t=i\rightarrow$ $90^{\circ }$ phase shift |
+<table>
+<tr><th>t Value</th><th>What It Represents</th><th>Type of Physics</th><th>Example</th></tr>
+<tr><td>Integer</td><td>Repeated discrete operation</td><td>Arithmetic / Iteration</td><td>Add: xₙ=3×x+3 → semigroup T³(x)=x+3c</td></tr>
+<tr><td>Real</td><td>Smooth continuous time</td><td>Classical motion</td><td>ODE: dx/dt=f(x)</td></tr>
+<tr><td>Fractional</td><td>Memory, anomalous diffusion</td><td>Fractional dynamics</td><td>a=1.5 → slower chaos</td></tr>
+<tr><td>Imaginary</td><td>Oscillation, rotation</td><td>Quantum / wave</td><td>i∂ψ/∂t=Hψ → phase shift</td></tr>
+</table>
 
 
 $here=fractiona$ l order, blending t with memory (e.g., Caputo derivative). Unifies: $a=2$ classical (acceleration), $a=1QM$ (probability).
