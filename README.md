@@ -12,6 +12,10 @@ The underlying principles are described in the following documents:
 **Status:** Accepted for publication in the *International Conference on Hybrid Intelligence: Theories and Applications (HITA2024)*  
 **Date:** 18–19 October 2024  
 **Location:** Shobhit University Gangoh, Saharanpur, India  
+**Publisher:** Springer Nature Singapore Pte Ltd  
+**Imprint:** Springer  
+**Book title (provisional):** *Hybrid Intelligence: Theories and Applications: Proceedings of HITA 2024*  
+**Series:** *Lecture Notes in Networks and Systems*
 
 ---
 
