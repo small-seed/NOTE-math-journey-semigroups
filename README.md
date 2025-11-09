@@ -1,4 +1,4 @@
-# Biological Algorithms and Logical Biomolecular Complexes
+# Biological Algorithms Concept
 
 Doubts about the accuracy of current cognitive models arise from the concept of **biological algorithms**, which propose that cells operate through conditionally reactive molecular systems capable of executing programmed operations. This algorithmic process extends continuously from the molecular scale to multicellular organization, ultimately producing observable behaviors.
 
