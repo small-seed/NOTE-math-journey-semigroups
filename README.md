@@ -1,6 +1,6 @@
 # Biological Algorithms Concept
 
-Doubts about the accuracy of current cognitive models arise from the concept of **biological algorithms**, which propose that cells operate through conditionally reactive molecular systems capable of executing programmed operations. This algorithmic process extends continuously from the molecular scale to multicellular organization, ultimately producing observable behaviors.
+This section outlines a set of hypotheses and conceptual arguments derived from the emerging idea of biological algorithms. As the notions of biological algorithms and biological programming cannot yet be formally established due to the inherent complexity of living systems, the following discussion should be regarded as theoretical and exploratory. Doubts about the accuracy of current cognitive models arise from this concept, which propose that cells operate through conditionally reactive molecular systems capable of executing programmed operations. This algorithmic process extends continuously from the molecular scale to multicellular organization, ultimately producing observable behaviors.
 
 The underlying principles are described in the following documents:
 
