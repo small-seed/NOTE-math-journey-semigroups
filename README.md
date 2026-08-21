@@ -6,6 +6,6 @@ A short note on continuous iteration, semigroups, and the possibility that human
 
 Notes and seminar material on whether interacting molecular systems can encode and execute logical structure.
 
-Includes material related to **JSC 13. Information Organization and Processing in Oncolytic Viruses**.
+Includes material related to Advanced VnPathoinformatics - **JSC 2026 Information Organization and Processing in Oncolytic Viruses**.
 
 [Open NOTE 2 →](./NOTE%202/)
